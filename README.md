@@ -98,7 +98,7 @@ Visual outputs include:
 Feature	Original PandemicLLM	This Implementation
 Base Model	LLaMA2	Falcon-7B-Instruct
 Prompt Format	Raw time series	Human-readable summary prompt
-Extra Signal	❌	✅ Wastewater surveillance
+Extra Signal	✅ Wastewater surveillance
 Quantization	Not used	✅ 4-bit for low-resource usage
 Visualization	Limited	✅ Multiple detailed plots
 
